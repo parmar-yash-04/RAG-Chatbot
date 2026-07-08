@@ -3,7 +3,7 @@ import time
 import streamlit as st
 import requests
 
-API_BASE = os.getenv("API_BASE", "http://localhost:8000")
+API_BASE = os.getenv("API_BASE", "https://rag-chatbot-production-3142.up.railway.app")
 
 st.set_page_config(page_title="RAG Chatbot", page_icon="💬", layout="centered")
 
