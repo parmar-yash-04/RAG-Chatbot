@@ -1,0 +1,13 @@
+fastapi>=0.115.0
+uvicorn[standard]>=0.30.0
+streamlit>=1.40.0
+qdrant-client>=1.13.0
+google-genai>=1.0.0
+groq>=0.14.0
+logfire[fastapi]>=4.30.0
+pydantic-settings>=2.7.0
+python-multipart>=0.0.20
+cachetools>=5.5.0
+PyMuPDF>=1.25.0
+python-docx>=1.1.0
+aiofiles>=24.0.0
